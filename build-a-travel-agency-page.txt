@@ -1,0 +1,43 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="description" content="Information on the italy tourism"/>
+  <meta charset="UTF-8"/>
+
+<title>Travel with Agency Page</title>
+
+</head>
+
+<body>
+<h1>Welcome to Italy</h1>
+<p>There is a world full of history, culture and food. Where should you find this world you ask? Well, carry on reading!</p>
+
+<h2>Packages</h2>
+<p>There are 3 diferent packages.Strall Package,Food Package and Art Package</p>
+
+<ul>
+  <li><a href="https://www.freecodecamp.org/learn" target=_blank>Group Travels</a></li>
+  <li><a href="https://www.freecodecamp.org/learn" target=_blank>Private Tours</a></li>
+
+</ul>
+<h2>Top Itineraries</h2>
+<figure>
+ <a href="https://www.freecodecamp.org/learn" target=_blank><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="A stadium surrounded with blue skies"/></a>
+ <figcaption>Staduimn</figcaption>
+</figure>
+<figure>
+<a href="https://www.freecodecamp.org/learn" target=_blank><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Mountains with green vegetation"/></a>
+ <figcaption>Mountains</figcaption>
+</figure>
+<figure>
+<a href="https://www.freecodecamp.org/learn" target=_blank><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Blue clear sea with a small yatch"/></a>
+ <figcaption>Sea</figcaption>
+</figure>
+
+</body>
+</html>
+
+** end of index.html **
+
